@@ -13,6 +13,17 @@
 
 > ⚠️ **Disclaimer:** This application is intended for **adult audiences only (18+)**. By downloading and installing this app, you confirm that you meet the legal age requirement in your jurisdiction.
 
+## 🎥 Video Trailer
+
+https://github.com/meguriav90/javapk/raw/main/trailer.mp4
+
+## 📸 Screenshots
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="screenshots/javapk.com/1.webp" width="180" alt="Screenshot 1" /> | <img src="screenshots/javapk.com/1a.webp" width="180" alt="Screenshot 1a" /> | <img src="screenshots/javapk.com/2.webp" width="180" alt="Screenshot 2" /> | <img src="screenshots/javapk.com/2a.webp" width="180" alt="Screenshot 2a" /> | <img src="screenshots/javapk.com/3.webp" width="180" alt="Screenshot 3" /> |
+| <img src="screenshots/javapk.com/3a.webp" width="180" alt="Screenshot 3a" /> | <img src="screenshots/javapk.com/4.webp" width="180" alt="Screenshot 4" /> | <img src="screenshots/javapk.com/4a.webp" width="180" alt="Screenshot 4a" /> | <img src="screenshots/javapk.com/5.webp" width="180" alt="Screenshot 5" /> | <img src="screenshots/javapk.com/5a.webp" width="180" alt="Screenshot 5a" /> |
+
 ## ✨ Features
 
 - 🔒 **Pattern Lock Protection:** Keep your app and viewing history private with built-in security.
