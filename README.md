@@ -55,6 +55,6 @@ Your donations directly help fund:
 
 ### 🪙 Crypto Donations
 
-- **USDT (`ERC-20 / ETH`):**
+- **USDT (`Polygon / ERC-20`):**
   ```text
   0x9c6d757906c6da713Ac49089271e440973B9bE19
