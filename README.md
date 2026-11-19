@@ -1,6 +1,6 @@
 <div align="center">
   <img src="icon.webp" alt="JAVAPK Icon" width="120" height="120" />
-  <h1>🎬 JAVAPK - Free Japanese Movie Streaming App Android</h1>
+  <h1>🎬 JAVAPK - Free Japanese Movie Streaming App Player Android</h1>
   <p>
     <a href="https://javapk.com"><img src="https://img.shields.io/badge/Website-javapk.com-blue?style=flat-square" alt="Website"></a>
     <a href="https://github.com/meguriav90/javapk/releases"><img src="https://img.shields.io/github/v/release/meguriav90/javapk?style=flat-square&color=green" alt="Latest Release"></a>
