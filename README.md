@@ -15,7 +15,11 @@
 
 ## 🎥 Video Trailer
 
-https://github.com/meguriav90/javapk/raw/main/trailer.mp4
+<div align="center">
+  <video src="https://github.com/meguriav90/javapk/raw/main/trailer.mp4" controls="controls" style="max-width: 100%; border-radius: 8px;">
+    Your browser does not support the video tag. <a href="https://github.com/meguriav90/javapk/raw/main/trailer.mp4">Watch Trailer</a>
+  </video>
+</div>
 
 ## 📸 Screenshots
 
@@ -24,16 +28,14 @@ https://github.com/meguriav90/javapk/raw/main/trailer.mp4
 | <img src="screenshots/javapk.com/1.webp" width="180" alt="Screenshot 1" /> | <img src="screenshots/javapk.com/1a.webp" width="180" alt="Screenshot 1a" /> | <img src="screenshots/javapk.com/2.webp" width="180" alt="Screenshot 2" /> | <img src="screenshots/javapk.com/2a.webp" width="180" alt="Screenshot 2a" /> | <img src="screenshots/javapk.com/3.webp" width="180" alt="Screenshot 3" /> |
 | <img src="screenshots/javapk.com/3a.webp" width="180" alt="Screenshot 3a" /> | <img src="screenshots/javapk.com/4.webp" width="180" alt="Screenshot 4" /> | <img src="screenshots/javapk.com/4a.webp" width="180" alt="Screenshot 4a" /> | <img src="screenshots/javapk.com/5.webp" width="180" alt="Screenshot 5" /> | <img src="screenshots/javapk.com/5a.webp" width="180" alt="Screenshot 5a" /> |
 
-## ✨ Features
+## ✨ App Features
 
-- 🔒 **Pattern Lock Protection:** Keep your app and viewing history private with built-in security.
-- ⚡ **Lightweight & Fast:** Built natively with Kotlin for smooth performance and minimal battery/memory usage.
-- 🔍 **Smart Search:** Easily find videos by title or search by your favorite actor/actress 🎭.
-- 🌃 **Built-in Streaming Viewer:** Smooth playback experience directly inside the app.
-- ⏱️ **Custom Time Highlights:** Add custom timestamps/bookmarks to jump straight to your favorite moments.
-- ⭐ **Favorites Management:** Save videos to your favorites list, with support to ❤️ **import and export** your data anytime.
-- 🗄️ **Database Import:** Support for importing local databases (includes a base database of 50,000+ offline entries).
-- 🔊 **Panic Close Shortcut:** Quickly close and exit the application instantly by pressing the **Volume Down** button.
+- 🔓 **No Login Required:** Open the app and start playing shows immediately without creating or registering an account.
+- 🌐 **No VPN Needed:** Access video streams smoothly without having to turn on any extra VPN apps.
+- 📺 **360p - 1080p Resolution:** Choose from various video quality options, from data-saving to crystal-clear HD.
+- 🛡️ **No Dangerous Permissions (100% Safe):** The app does not request intrusive permissions such as contacts, location, or camera.
+- 🔒 **Protected Privacy:** Does not track, store, or ask for any personal user data whatsoever.
+- ⬇️ **Fast Android Download:** Save your favorite movies directly to your Android smartphone to watch offline.
 
 ## 📥 Download & Installation
 
