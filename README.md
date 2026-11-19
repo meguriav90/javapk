@@ -15,11 +15,7 @@
 
 ## 🎥 Video Trailer
 
-<div align="center">
-  <video src="https://github.com/meguriav90/javapk/raw/main/trailer.mp4" controls="controls" style="max-width: 100%; border-radius: 8px;">
-    Your browser does not support the video tag. <a href="https://github.com/meguriav90/javapk/raw/main/trailer.mp4">Watch Trailer</a>
-  </video>
-</div>
+https://github.com/user-attachments/assets/9871ec73-9cd2-4f77-bdd7-25aa6b54e987
 
 ## 📸 Screenshots
 
