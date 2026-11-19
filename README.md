@@ -4,6 +4,7 @@
   <p>
     <a href="https://javapk.com"><img src="https://img.shields.io/badge/Website-javapk.com-blue?style=flat-square" alt="Website"></a>
     <a href="https://github.com/meguriav90/javapk/releases"><img src="https://img.shields.io/github/v/release/meguriav90/javapk?style=flat-square&color=green" alt="Latest Release"></a>
+    <img src="https://img.shields.io/badge/APK%20Size-18%20MB-orange?style=flat-square" alt="APK Size">
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform">
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
   </p>
@@ -35,7 +36,9 @@ https://github.com/user-attachments/assets/9871ec73-9cd2-4f77-bdd7-25aa6b54e987
 
 ## 📥 Download & Installation
 
-1. **Download** the latest APK from our official website [javapk.com](https://javapk.com) or via the [GitHub Releases](https://github.com/meguriav90/javapk/releases) page.
+- **File Size:** ~18 MB (`JAVAPK.apk`)
+
+1. **Download** the latest APK (**18 MB**) from our official website [javapk.com](https://javapk.com) or via the [GitHub Releases](https://github.com/meguriav90/javapk/releases) page.
 2. Go to your Android **Settings > Security** and enable **"Install unknown apps"** for your browser or file manager.
 3. Locate and open the downloaded `JAVAPK.apk` file.
 4. Tap **Install** and launch the application.
